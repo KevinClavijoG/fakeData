@@ -1,4 +1,6 @@
-[{
+
+
+{"rents":[{
   "idRent": 1,
   "name": "Alphazap",
   "type": "Freelander",
@@ -28,4 +30,4 @@
   "type": "Discovery",
   "address": "74 Hauk Point",
   "price": "$889.66"
-}]
+}]}
