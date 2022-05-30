@@ -1,11 +1,91 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+  "idRent": 1,
+  "name": "Domainer",
+  "type": "Concorde",
+  "address": "3 Dottie Circle",
+  "price": "$1061.01",
+  "dDeposit": "$405.45",
+  "smoke": true,
+  "pet": false
+}, {
+  "idRent": 2,
+  "name": "Mat Lam Tam",
+  "type": "9-3",
+  "address": "054 Gina Trail",
+  "price": "$985.15",
+  "dDeposit": "$825.38",
+  "smoke": true,
+  "pet": true
+}, {
+  "idRent": 3,
+  "name": "Flowdesk",
+  "type": "del Sol",
+  "address": "0 Surrey Way",
+  "price": "$1717.47",
+  "dDeposit": "$955.66",
+  "smoke": true,
+  "pet": false
+}, {
+  "idRent": 4,
+  "name": "Opela",
+  "type": "X5",
+  "address": "72 Beilfuss Street",
+  "price": "$1509.24",
+  "dDeposit": "$630.14",
+  "smoke": false,
+  "pet": false
+}, {
+  "idRent": 5,
+  "name": "Ventosanzap",
+  "type": "B-Series",
+  "address": "33841 Grasskamp Park",
+  "price": "$1152.79",
+  "dDeposit": "$620.90",
+  "smoke": false,
+  "pet": false
+}, {
+  "idRent": 6,
+  "name": "Zontrax",
+  "type": "Diablo",
+  "address": "255 Grayhawk Alley",
+  "price": "$1490.12",
+  "dDeposit": "$519.48",
+  "smoke": false,
+  "pet": false
+}, {
+  "idRent": 7,
+  "name": "Home Ing",
+  "type": "400E",
+  "address": "7 Union Road",
+  "price": "$1392.65",
+  "dDeposit": "$974.75",
+  "smoke": false,
+  "pet": false
+}, {
+  "idRent": 8,
+  "name": "Asoka",
+  "type": "MX-5",
+  "address": "8616 Riverside Crossing",
+  "price": "$1809.74",
+  "dDeposit": "$165.65",
+  "smoke": true,
+  "pet": true
+}, {
+  "idRent": 9,
+  "name": "Home Ing",
+  "type": "Navigator",
+  "address": "6054 Hintze Parkway",
+  "price": "$1046.23",
+  "dDeposit": "$931.82",
+  "smoke": true,
+  "pet": true
+}, {
+  "idRent": 10,
+  "name": "Stringtough",
+  "type": "Impreza",
+  "address": "76 Arrowood Center",
+  "price": "$1731.08",
+  "dDeposit": "$701.59",
+  "smoke": false,
+  "pet": true
+}]
