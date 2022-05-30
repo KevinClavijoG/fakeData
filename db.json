@@ -1,7 +1,31 @@
-[{
+{"rents":[{
   "idRent": 1,
   "name": "Alphazap",
   "type": "Freelander",
   "address": "9332 Anthes Hill",
   "price": "$1288.72"
-}]
+}, {
+  "idRent": 2,
+  "name": "Tresom",
+  "type": "Sentra",
+  "address": "838 Vidon Plaza",
+  "price": "$1695.14"
+}, {
+  "idRent": 3,
+  "name": "Sonair",
+  "type": "Prowler",
+  "address": "2155 Sloan Alley",
+  "price": "$810.19"
+}, {
+  "idRent": 4,
+  "name": "Temp",
+  "type": "Aero 8",
+  "address": "37 Westridge Parkway",
+  "price": "$1353.78"
+}, {
+  "idRent": 5,
+  "name": "Alphazap",
+  "type": "Discovery",
+  "address": "74 Hauk Point",
+  "price": "$889.66"
+}]}
